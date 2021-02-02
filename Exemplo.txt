@@ -1,0 +1,10 @@
+A 4 8 0 Anastacia
+A 7 8 0 Cleiton
+A 23 8 0 Jorge
+O 5 8 2019 Volta as aulas
+O 31 8 2019 Festa a Fantasia
+O 30 8 2019 Entrega de Trabalho
+O 3 8 2019 Dia da Comunidade
+V 11 8 2019 Praia
+O 18 8 2019 Show de Rock
+A 19 8 0 Laurinda
